@@ -10,3 +10,4 @@ e.respondWith(caches.match(e.request).then(hit=>{const net=fetch(e.request).then
 // deploy nudge 2026-11-09 v1.6.15
 // deploy nudge 2026-11-09 v1.6.16
 // deploy nudge 2026-11-09 v1.6.17
+// deploy nudge 2026-11-09 v1.6.21
