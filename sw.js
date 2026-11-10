@@ -7,3 +7,4 @@ e.respondWith(caches.match(e.request).then(hit=>{const net=fetch(e.request).then
 
 // deployment nudge 2026-11-01: re-trigger Pages after a stuck deployment queue
 // deployment nudge 2026-11-02: re-trigger Pages after a stuck deployment queue
+// deploy nudge 2026-11-09 v1.6.15
