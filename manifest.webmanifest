@@ -15,10 +15,10 @@
    "type": "image/png"
   }
  ],
- "name": "Quick Budget",
+ "name": "MoneyNorth",
  "orientation": "portrait",
  "scope": "./",
- "short_name": "Quick Budget",
+ "short_name": "MoneyNorth",
  "start_url": "./index.html",
  "theme_color": "#0f766e"
 }
